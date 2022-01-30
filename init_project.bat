@@ -1,6 +1,8 @@
+REM @echo off
+
 CD %~dp0
 
-call python -m venv venv
+python -m venv venv
 
 call venv\Scripts\activate.bat
 
