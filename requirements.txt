@@ -1,2 +1,4 @@
 emoji
 robotframework
+robotframework-importresource
+robotframework-importresource-testdata
